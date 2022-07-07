@@ -17,21 +17,21 @@
 }
 
 .header-text > p {
-    font-family: 'Abril Fatface', cursive;
-    font-style: normal;
+    font-family: 'garet';
+    font-style:initial;
     font-size: 4em;
     line-height: 50px;
     text-align: center;
     letter-spacing: 0.2px;
-    color: #fff;
+    color: #4e322b;
     margin: 10px;
 }
 .header-text > p:nth-child(2) {
-    font-family: 'Pacifico', cursive;
+    font-family: 'garet', bold;
     font-style: normal;
     font-size: 40px;
     line-height: 30px;
-    color: #FF1493;
+    color: #361d17;
     margin: 50px;
 }
 
@@ -47,21 +47,21 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    border: 2px solid #FF1493;
+    border: 2px solid #361d17;
     box-sizing: border-box;
-    color: #fff;
+    color: rgb(48, 10, 10);
     padding: 0px 36px;
     width: 200px;
     height: 80px;
     left: 0;
     top: 0px;
     text-decoration: none;
-    box-shadow: 0px 4px 31px #FF1493(0, 0, 0, 0.15);
+    box-shadow: 0px 40px 31px #361d17(0, 0, 0, 0.15);
     margin: 4px;
 }
 
 .btn-text {
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'garet', bold;
     font-style: normal;
     font-size: 16px;
     line-height: 16px;
@@ -71,7 +71,7 @@
 .social{
     display: flex;
     align-items: center;
-    margin-left: 25%;
+
     margin-right: 25%;
 }
 .Image-linkedin{
@@ -81,8 +81,8 @@
 }
 .Image-github{
     border-radius: 50%;
-    width: 30%;
-    margin-left: 10%;
+    width: 40%;
+    margin-left: 5%;
 }
 
 /* For small height screen sizes */
@@ -92,7 +92,15 @@
 
 /* For small width screens */
 @media only screen and (max-width: 640px) {
+    .header-text >p{
+       font-size: 2.4em;
+    }
     .head-btns {
         margin: 10px 10px 35px 10px;
+    }
+    .header-text > p:nth-child(2) {
+        
+        font-size: 2em;
+    
     }
 }

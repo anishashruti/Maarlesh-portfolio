@@ -39,7 +39,7 @@
     width:50px;
     height:50px;
     border-radius: 30px;
-    background-color: black;
+ 
 }
 #codelogo{
     width:50px;
@@ -75,7 +75,8 @@
 
 .project-heading {
     margin: 0;
-    font-family: 'Abril Fatface';
+    font-family: 'garet', bold;
+    font-style: bold;
     font-size:40px;
     color:#161616;
 }
@@ -84,23 +85,22 @@
     font-weight: 300;
     font-size: 20px;
     line-height: 28px;
-    color: #bb278f;
+    color: #42180e;
 }
-
 @media only screen and (max-width: 640px) {  
     .project-card {
         width: 300px;
         min-height: 350px;
-        background: #161616;
+      
         padding: 0;
-        box-shadow: 9px 10px 12px #FF1493;;
+        box-shadow: 9px 10px 12px #42180e;;
         display: flex;
         flex-direction: column;
         margin: 20px;
     }
     
     .project-card:hover {
-        box-shadow: 0px 40px 50px#FF1493;
+        box-shadow: 0px 40px 50px#42180e;
         transition: all 0.3s;
     }
     

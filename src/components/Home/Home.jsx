@@ -8,8 +8,8 @@ const Home = props => {
         <div className="home-component">
            
             <div className='header-text'>
-                <p>Hi,<br></br><br></br>I'm Anisha Shruti,</p>
-                <p id="tag"> A Webdeveloper</p>
+                <p>HELLO WORLD!<br></br><br></br>I'M SUBAMAARLESHAR,</p>
+                <p id="tag"> A SOFTWARE DEVELOPER</p>
             </div>
             <div className='head-btns'>
                     <Link to='/contact' className='btn'>
@@ -17,8 +17,8 @@ const Home = props => {
                     </Link>
             </div>
             <div className="social">
-                <a href="https://www.linkedin.com/in/anisha-shruti-a-t-72a409202/"><img  className="Image-linkedin" src={linkedin} alt="linkedin"></img></a>
-                <a href="https://github.com/anishashruti"><img className="Image-github" src={github} alt="github"></img></a>
+                <a href="https://www.linkedin.com/in/subamaarleshar-b-31224b190/"><img  className="Image-linkedin" src={linkedin} alt="linkedin"></img></a>
+                <a href="https://github.com/maarlesh"><img className="Image-github" src={github} alt="github"></img></a>
                 
             </div>
         </div>

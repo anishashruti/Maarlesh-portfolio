@@ -18,10 +18,10 @@ import im from "./../../images/A-logo.png"
         return (
             <Menu >
                 <img className="Image" src={im} alt="logo"></img>
-                <Link id="about" className={`menu-item ${aboutClass}`} to="/about">About</Link>
-                <Link id="skills" className={`menu-item ${skillsClass}`} to="/skills">Skills</Link>
-                <Link id="projects" className={`menu-item ${projectsClass}`} to="/projects">Projects</Link>
-                <Link id="contact" className={`menu-item ${contactClass}`} to="/contact">Contact</Link>
+                <Link id="about" className={`menu-item ${aboutClass}`} to="/about">ABOUT</Link>
+                <Link id="skills" className={`menu-item ${skillsClass}`} to="/skills">SKILLS</Link>
+                <Link id="projects" className={`menu-item ${projectsClass}`} to="/projects">PROJECTS</Link>
+                <Link id="contact" className={`menu-item ${contactClass}`} to="/contact">CONTACT</Link>
             </Menu>
         );
     }

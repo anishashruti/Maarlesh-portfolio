@@ -1,8 +1,8 @@
 .sub{
     box-sizing: border-box;
-    color:#FF1493;
+    color:#361d17;
     font-size: 28px;
-    font-family: 'Pacifico', cursive;
+    font-family: 'garet', Bold;
     padding-left:20%;
     margin:0;
 }
@@ -23,9 +23,9 @@ input[type=email], select, textarea {
     width: 70%;
     height: 5px;
     padding: 12px;
-    background:#161616;
-    color: white;
-    border: 2px solid #FF1493;
+    background:#b09371;
+    color: #b09371;
+    border: 2px solid #361d17;
     border-radius: 4px;
     resize: vertical;
     padding: 25px 35px;
@@ -33,7 +33,7 @@ input[type=email], select, textarea {
   }
   .contact-btn {
     margin-left: 1%;
-    border: 2px solid #FF1493;
+    border: 2px solid #361d17;
     color: #fff;
     font-style: normal;
     font-size: 14px;
@@ -41,7 +41,7 @@ input[type=email], select, textarea {
     width: 30%;
     text-align: center;
     padding: 17px 35px;
-    background: #161616;
+    background: #b09371;
     border-radius: 4px;
 }
 .body-input {
@@ -49,8 +49,8 @@ input[type=email], select, textarea {
     padding: 25px 35px;
 }
 .pageclip-form__submit::after {
-    border-color: white;
-    border-left-color: #FF1493;
+    border-color: #b09371;
+    border-left-color: #361d17;
   }
   @media only screen and (max-width: 450px) {
     .sub{
