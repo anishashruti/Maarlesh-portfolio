@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Maarlesh-portfolio/static/css/main.680b9d7e.chunk.css",
+    "main.js": "/Maarlesh-portfolio/static/js/main.4d8341db.chunk.js",
+    "main.js.map": "/Maarlesh-portfolio/static/js/main.4d8341db.chunk.js.map",
+    "runtime-main.js": "/Maarlesh-portfolio/static/js/runtime-main.d315a175.js",
+    "runtime-main.js.map": "/Maarlesh-portfolio/static/js/runtime-main.d315a175.js.map",
+    "static/js/2.26beeb5b.chunk.js": "/Maarlesh-portfolio/static/js/2.26beeb5b.chunk.js",
+    "static/js/2.26beeb5b.chunk.js.map": "/Maarlesh-portfolio/static/js/2.26beeb5b.chunk.js.map",
+    "index.html": "/Maarlesh-portfolio/index.html",
+    "static/css/main.680b9d7e.chunk.css.map": "/Maarlesh-portfolio/static/css/main.680b9d7e.chunk.css.map",
+    "static/js/2.26beeb5b.chunk.js.LICENSE.txt": "/Maarlesh-portfolio/static/js/2.26beeb5b.chunk.js.LICENSE.txt",
+    "static/media/A-logo.62baf6d2.png": "/Maarlesh-portfolio/static/media/A-logo.62baf6d2.png",
+    "static/media/home.3ec90303.png": "/Maarlesh-portfolio/static/media/home.3ec90303.png",
+    "static/media/linkedin.2e03ddde.png": "/Maarlesh-portfolio/static/media/linkedin.2e03ddde.png",
+    "static/media/profile.74d17e3c.jpg": "/Maarlesh-portfolio/static/media/profile.74d17e3c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d315a175.js",
+    "static/js/2.26beeb5b.chunk.js",
+    "static/css/main.680b9d7e.chunk.css",
+    "static/js/main.4d8341db.chunk.js"
+  ]
+}
